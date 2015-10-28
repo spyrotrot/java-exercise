@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Settings>
+	<Algorithm>ShiftUpEncryption</Algorithm>
+	<Source>C:\work1\encryptor1\target</Source>
+	<KeyPath>C:\work1\encryptor1\target\encrypted\key.txt</KeyPath>
+</Settings>
